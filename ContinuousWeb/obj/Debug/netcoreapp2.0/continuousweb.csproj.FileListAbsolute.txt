@@ -1,0 +1,10 @@
+E:\GIT\RCH\TRN\AZR\AzureAppServiceConfiguration\continuousdeployment\continuousweb\bin\Debug\netcoreapp2.0\continuousweb.deps.json
+E:\GIT\RCH\TRN\AZR\AzureAppServiceConfiguration\continuousdeployment\continuousweb\bin\Debug\netcoreapp2.0\continuousweb.runtimeconfig.json
+E:\GIT\RCH\TRN\AZR\AzureAppServiceConfiguration\continuousdeployment\continuousweb\bin\Debug\netcoreapp2.0\continuousweb.runtimeconfig.dev.json
+E:\GIT\RCH\TRN\AZR\AzureAppServiceConfiguration\continuousdeployment\continuousweb\bin\Debug\netcoreapp2.0\continuousweb.dll
+E:\GIT\RCH\TRN\AZR\AzureAppServiceConfiguration\continuousdeployment\continuousweb\bin\Debug\netcoreapp2.0\continuousweb.pdb
+E:\GIT\RCH\TRN\AZR\AzureAppServiceConfiguration\continuousdeployment\continuousweb\obj\Debug\netcoreapp2.0\continuousweb.csproj.CoreCompileInputs.cache
+E:\GIT\RCH\TRN\AZR\AzureAppServiceConfiguration\continuousdeployment\continuousweb\obj\Debug\netcoreapp2.0\continuousweb.AssemblyInfoInputs.cache
+E:\GIT\RCH\TRN\AZR\AzureAppServiceConfiguration\continuousdeployment\continuousweb\obj\Debug\netcoreapp2.0\continuousweb.AssemblyInfo.cs
+E:\GIT\RCH\TRN\AZR\AzureAppServiceConfiguration\continuousdeployment\continuousweb\obj\Debug\netcoreapp2.0\continuousweb.dll
+E:\GIT\RCH\TRN\AZR\AzureAppServiceConfiguration\continuousdeployment\continuousweb\obj\Debug\netcoreapp2.0\continuousweb.pdb
