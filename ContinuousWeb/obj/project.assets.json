@@ -12538,12 +12538,15 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "E:\\GIT\\RCH\\TRN\\AZR\\AzureAppServiceConfiguration\\continuousdeployment\\continuousweb\\continuousweb.csproj",
+      "projectUniqueName": "E:\\GIT\\RCH\\TRN\\AZR\\AzureAppServiceConfiguration\\ContinuousDeployment\\ContinuousWeb\\continuousweb.csproj",
       "projectName": "continuousweb",
-      "projectPath": "E:\\GIT\\RCH\\TRN\\AZR\\AzureAppServiceConfiguration\\continuousdeployment\\continuousweb\\continuousweb.csproj",
+      "projectPath": "E:\\GIT\\RCH\\TRN\\AZR\\AzureAppServiceConfiguration\\ContinuousDeployment\\ContinuousWeb\\continuousweb.csproj",
       "packagesPath": "C:\\Users\\kimball\\.nuget\\packages\\",
-      "outputPath": "E:\\GIT\\RCH\\TRN\\AZR\\AzureAppServiceConfiguration\\continuousdeployment\\continuousweb\\obj\\",
+      "outputPath": "E:\\GIT\\RCH\\TRN\\AZR\\AzureAppServiceConfiguration\\ContinuousDeployment\\ContinuousWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

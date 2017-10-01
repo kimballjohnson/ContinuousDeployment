@@ -8,3 +8,4 @@ E:\GIT\RCH\TRN\AZR\AzureAppServiceConfiguration\continuousdeployment\continuousw
 E:\GIT\RCH\TRN\AZR\AzureAppServiceConfiguration\continuousdeployment\continuousweb\obj\Debug\netcoreapp2.0\continuousweb.AssemblyInfo.cs
 E:\GIT\RCH\TRN\AZR\AzureAppServiceConfiguration\continuousdeployment\continuousweb\obj\Debug\netcoreapp2.0\continuousweb.dll
 E:\GIT\RCH\TRN\AZR\AzureAppServiceConfiguration\continuousdeployment\continuousweb\obj\Debug\netcoreapp2.0\continuousweb.pdb
+E:\GIT\RCH\TRN\AZR\AzureAppServiceConfiguration\ContinuousDeployment\ContinuousWeb\obj\Debug\netcoreapp2.0\continuousweb.csprojResolveAssemblyReference.cache
